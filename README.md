@@ -1,1 +1,1 @@
-# Smart-Attendance-System-using-Face-Detection
+# face_recognition_project
